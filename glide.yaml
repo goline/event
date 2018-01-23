@@ -1,0 +1,4 @@
+package: github.com/goline/event
+import:
+- package: github.com/goline/errors
+  version: ~1.0.1
